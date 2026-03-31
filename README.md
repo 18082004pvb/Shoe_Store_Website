@@ -1,18 +1,31 @@
-<img src="public/imageREADme/1.png" width="100%">
-<img src="public/imageREADme/2.png" width="100%">
-<img src="public/imageREADme/3.png" width="100%">
-<img src="public/imageREADme/4.png" width="100%">
-<img src="public/imageREADme/5.png" width="100%">
-<img src="public/imageREADme/6.png" width="100%">
-<img src="public/imageREADme/7.png" width="100%">
-<img src="public/imageREADme/8.png" width="100%">
-<img src="public/imageREADme/9.png" width="100%">
-<img src="public/imageREADme/10.png" width="100%">
-<img src="public/imageREADme/11.png" width="100%">
-<img src="public/imageREADme/12.png" width="100%">
-<img src="public/imageREADme/13.png" width="100%">
-<img src="public/imageREADme/14.png" width="100%">
-<img src="public/imageREADme/15.png" width="100%">
+
+<p align="center">
+  <img src="public/imageREADme/1.png" width="30%">
+  <img src="public/imageREADme/2.png" width="30%">
+  <img src="public/imageREADme/3.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="public/imageREADme/4.png" width="30%">
+  <img src="public/imageREADme/5.png" width="30%">
+  <img src="public/imageREADme/6.png" width="30%">
+</p>
+<p align="center">
+  <img src="public/imageREADme/7.png" width="30%">
+  <img src="public/imageREADme/8.png" width="30%">
+  <img src="public/imageREADme/9.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="public/imageREADme/10.png" width="30%">
+  <img src="public/imageREADme/11.png" width="30%">
+  <img src="public/imageREADme/12.png" width="30%">
+</p>
+<p align="center">
+  <img src="public/imageREADme/13.png" width="30%">
+  <img src="public/imageREADme/14.png" width="30%">
+  <img src="public/imageREADme/15.png" width="30%">
+</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
