@@ -1,3 +1,20 @@
+<img src="public/imageREADme/Picture1.png" width="100%">
+<img src="public/imageREADme/Picture1a.png" width="100%">
+<img src="public/imageREADme/Picture1c.png" width="100%">
+<img src="public/imageREADme/Picture2.png" width="100%">
+<img src="public/imageREADme/Picture2a.png" width="100%">
+<img src="public/imageREADme/Picture3.png" width="100%">
+<img src="public/imageREADme/Picture5.png" width="100%">
+<img src="public/imageREADme/Picture5a.png" width="100%">
+<img src="public/imageREADme/Picture6.png" width="100%">
+<img src="public/imageREADme/Picture7.png" width="100%">
+<img src="public/imageREADme/Picture8.png" width="100%">
+<img src="public/imageREADme/Picture11.png" width="100%">
+<img src="public/imageREADme/Picture12.png" width="100%">
+<img src="public/imageREADme/Picture13.png" width="100%">
+<img src="public/imageREADme/Screenshot 2026-03-31 070918.png" width="100%">
+<img src="public/imageREADme/Screenshot 2026-03-31 070942.png" width="100%">
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
